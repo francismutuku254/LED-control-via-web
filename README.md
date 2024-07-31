@@ -1,4 +1,4 @@
-Explanation:
+#Explanation:
 WiFi Library: Manages Wi-Fi connectivity.
 ssid and password: Replace with your network's SSID and password.
 server(80): Starts a server on port 80.
